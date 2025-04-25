@@ -59,7 +59,7 @@ img{
 .herois a:hover{
     color: white;
     border: solid 3px blue;
-    scale: 1.05;
+    transform: scale(1.05);
     background-image: url(https://i.gifer.com/FcUW.gif);
     background-size: 100%;
 }
